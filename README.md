@@ -4,6 +4,8 @@
 
 Student Attendance Tracker Setup
 
+Video walkthrough: https://youtu.be/V9TiH-_QO0Q
+
 ## How to run it
 
 First make the script executable:
