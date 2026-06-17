@@ -4,7 +4,7 @@
 
 Student Attendance Tracker Setup
 
-Video walkthrough: https://youtu.be/V9TiH-_QO0Q
+Video walkthrough: https://youtu.be/mABQbSF-XvQ
 
 ## How to run it
 
